@@ -2,4 +2,3 @@
 /dist
 /.git
 firebase.json
-/src/composables/firebase.js
