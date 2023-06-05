@@ -21,7 +21,7 @@ Made with
 <h3>
 <strong>Links</strong>
 
-<a href="https://staffcms.netlify.app" target="_blank">View the app in action.</a>
+<a href="https://staffapp.netlify.app" target="_blank">View the app in action.</a>
 
 <a href="https://www.behance.net/gallery/171897677/Staff-Enrollment-Management-System" target="_blank">Check out more screenshots on behance.</a>
 </h3>
